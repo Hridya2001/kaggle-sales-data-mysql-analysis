@@ -4,9 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 ![SQL](https://img.shields.io/badge/Language-SQL-blue)
 ![Excel](https://img.shields.io/badge/Cleaning-Excel-green)
-![Last Update](https://img.shields.io/github/last-commit/Hridya2001/kaggle-sales-data-mysql-analysis?color=orange)
-![Project Type](https://img.shields.io/badge/Type-Data--Analysis-critical)
-
+![Last Commit](https://img.shields.io/github/last-commit/Hridya2001/kaggle-sales-data-mysql-analysis?color=orange)
 
 A data analysis project where I explore and analyze the Superstore Sales dataset using MySQL. The project includes data cleaning using Excel, importing into MySQL, writing SQL queries to extract insights, and capturing results as screenshots.
 
