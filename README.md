@@ -64,5 +64,29 @@ You can click the link to explore visual outputs for each SQL query:
 |  Duplicate and blank data entries | Cleaned in Excel before import |
 |  MySQL GROUP BY error (`only_full_group_by`) | Restructured queries to include all non-aggregated columns in the `GROUP BY` clause |
 
+
+---
+
+## Conclusion
+
+This project highlights the power of **basic data cleaning + SQL queries** for generating valuable business insights from raw sales data. The structured approach ensures clean data flow from Excel to MySQL to final CSV exports.
+
+---
+
+##  Future Enhancements
+
+- Build **interactive dashboards using Power BI** based on the exported results.
+
+---
+
+
+
+
+
+
+
+
+
+
 ---
 
