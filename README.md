@@ -6,7 +6,10 @@ A data analysis project where I explore and analyze the Superstore Sales dataset
 
 ##  Dataset Source
 
-**[Superstore Sales Dataset – Kaggle](https://www.kaggle.com/datasets/)**  
+
+The dataset used in this project is publicly available on Kaggle:  
+ **[Superstore Dataset (Final) – by vivek468](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)**
+
 This dataset contains customer order records including product categories, regions, sales, profit, quantity, discount, etc.
 
 ---
